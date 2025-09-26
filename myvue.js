@@ -7,7 +7,6 @@ class Myvue {
             },
             set(val){
                 parameters.data[propertyName]=val
-                console.log('hahha');
 
             }
         })
